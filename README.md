@@ -1,7 +1,10 @@
- Malarai-Detection
+*Malarai-Detection*
 
- Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.The infection is caused by a parasite and does not spread from person to person.Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk of severe infection. Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.
- Key facts
+
+*Description*
+
+Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.The infection is caused by a parasite and does not spread from person to person.Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk of severe infection. Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.
+Key facts
 Globally in 2022, there were an estimated 249 million malaria cases and 608 000 malaria deaths in 85 countries.
 The WHO African Region carries a disproportionately high share of the global malaria burden.
 In 2022, the Region was home to 94% of malaria cases (233 million) and 95% (580 000) of malaria deaths.
@@ -22,18 +25,18 @@ jaundice (yellowing of the eyes and skin)
 abnormal bleeding.
 
 
-Team Members Details:
+*Team Members Details*
 
 Duggu Sumanth Reddy - 99210041336@klu.ac.in
 Thallapalli Siri Chandhana - 9921004819@klu.ac.in
 Vadla Mallikarjunachari - 9921004739@klu.ac.in
 Patil Nikhileshwar Reddy - 9921004547@klu.ac.in
 
-Problem to Solve:
+*Problem to Solve*
 
 Detection of Malarai disease of a humann but the samples of Red blood cells and checking it whether tha person is affected by Malarai or not
 
-Use Cases
+*Use Cases*
 
 Problem addressed
 Action taken based onresult
@@ -44,23 +47,22 @@ Requires point of contact test
 Routine case reporting,infection prevalence
 surveys (RDT, microscopy,molecular), and metrics such as positivity rates and annual blood examination rate
 
-Challenges 
+*Challenges*
 
 Developing a malaria detection system poses several challenges, particularly in regions where the disease is prevalent. Here are some common challenges faced during the development and deployment of such systems:
+Accuracy
+Sensitivity and Specificity
+Resource Limitations
+Infrastructure
+Cost
+Training and Education
+Sample Collection and Handling
+Quality Control
+Data Management and Analysis
+Community Engagement
 
-Accuracy: One of the primary challenges is ensuring the accuracy of the detection system. Malaria diagnosis requires the identification of malaria parasites in blood samples, and any inaccuracies can lead to misdiagnosis and improper treatment.
-Sensitivity and Specificity: The system needs to be sensitive enough to detect low levels of parasites in blood samples, while also being specific enough to differentiate between malaria parasites and other blood-borne pathogens or artifacts.
-Resource Limitations: In regions where malaria is endemic, there may be limited access to resources such as electricity, clean water, and skilled healthcare professionals. Developing a detection system that can operate reliably under these constraints is challenging.
-Infrastructure: Establishing the necessary infrastructure for deploying and maintaining the detection system, including laboratory facilities, equipment, and trained personnel, can be a significant challenge in resource-limited settings.
-Cost: Developing affordable detection systems that are accessible to healthcare facilities and communities in malaria-endemic regions is crucial. Cost-effective solutions are needed to ensure widespread adoption and sustainability.
-Training and Education: Healthcare workers and laboratory technicians need to be trained in the proper use of the detection system to ensure accurate and reliable results. Education efforts may also be needed to raise awareness about the importance of malaria diagnosis and treatment.
-Sample Collection and Handling: Proper collection, storage, and handling of blood samples are essential for accurate malaria diagnosis. Ensuring compliance with standard procedures can be challenging, especially in remote areas with limited access to healthcare facilities.
-Quality Control: Implementing quality control measures to monitor the performance of the detection system and ensure consistent results over time is critical. This includes regular maintenance of equipment, calibration, and proficiency testing.
-Data Management and Analysis: Managing and analyzing the large volumes of data generated by the detection system can be challenging, particularly in resource-limited settings where access to information technology infrastructure may be limited.
-Community Engagement: Engaging with local communities to understand their needs, concerns, and cultural practices is essential for the successful implementation of malaria detection systems. Building trust and collaboration with community members can help ensure the sustainability and effectiveness of the system
 
-
-Images: 
+*Images* 
 
 ![MD1](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/8ead576d-8a91-4b41-8929-66b31328ca61)
 ![MD2](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/ae67036f-fa47-4e7c-bd5d-a70ce00a413b)
@@ -70,11 +72,11 @@ Images:
 ![MD1](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/0c4b2b62-ee2b-430c-85d2-56b3fba58a65)
 ![MD2](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/a8e8b814-5b71-401e-a606-aaf33a43e31f)
 
-Video Link:
+*Video Link*
 
 https://youtu.be/BuiVwcJe_vA
 
-Steps to Implement the Project
+*Steps to Implement the Project*
 
 1) Import all the required libraries such as Streamlit,Tensorflow and by using Filesupload function upload the file required for predicton of the Malarai Disease
 2) Give the function to produce the webpage for prediction
@@ -82,7 +84,8 @@ Steps to Implement the Project
 4) After producing the webpage choice the prediction option and predict the output by browsing the file from online or device pics.
 
 
-Technology
+*Technology*
+
 Ethical Approval
 Study Area and Design
 Sample Size Determination
