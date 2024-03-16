@@ -1,4 +1,4 @@
-![MD1](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/eecb7439-cc49-4c0f-874a-3bf6e9a0e493) Malarai-Detection
+ Malarai-Detection
 
  Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.The infection is caused by a parasite and does not spread from person to person.Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk of severe infection. Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.
  Key facts
@@ -80,6 +80,46 @@ Steps to Implement the Project
 2) Give the function to produce the webpage for prediction
 3) And Execute the given code by using the given the files in  the github
 4) After producing the webpage choice the prediction option and predict the output by browsing the file from online or device pics.
+
+
+Technology
+Ethical Approval
+Study Area and Design
+Sample Size Determination
+The sample size for the study was estimated by using the Haijan-Tilaki method [8] applying the sensitivity of diagnostic tools as follows:
+NSE=[Z2×SE(1−SE)d2×P],
+(1)where Z = 1.96 at 95% confidence level, SE (sensitivity of standard diagnostic tool) = 0.97, d2 (margin of error) = 0.05, and P (prevalence) = 0.86. The sensitivity of standard diagnostic tools was 97% according to a previous study [9]. The estimated prevalence in the eastern region of Nepal from the previous study was 0.86 [10]. Applying a 95% confidence level value of Z = 1.96 and precision or margin of error d = 5%. The estimated sample size was calculated as 52.
+Sample Collection, Processing, and Storage
+Malaria Detection from Blood Films using Light Microscopy
+Quantification of Malaria Parasites by the Red Blood Cell (RBC)
+Count Method using Thin Smear
+Parasite quantification was performed using the RBC count method following the WHO protocol [12] using the formula:
+Estimation of parasitemia  (μL)=number of parasitized RBC(in20fields)×50000000total number of RBC count.
+(2)The percentage of parasitemia was calculated by counting the infected RBC per 2000 RBCs using the formula:
+percentage of parasitemia=number of Parasitized RBC×100%total number of RBC count.
+(3)
+Malaria Detection using a Rapid Diagnostic Test (RDT)
+The histidine-rich protein-2 and Plasmodium-specific lactase dehydrogenase–based rapid diagnostic test kit by Malascan™ (lot number 51091) was used [WHO panel detection score: 97% sensitivity for Plasmodium falciparum and 90% for Plasmodium species other than Plasmodium falciparum (PAN) between 2000 and 5000 parasites/μL of the whole blood sample and 82.8% (Pf) and 57.1% (PAN) for 200 parasites/μL of the blood sample with false positivity of 1% for PAN and 0.7% for Pf]. The tests were performed using rapid diagnostic kits, following the manufacturer's instructions [13].
+DNA Extraction of Blood Samples using Qiagen Kits
+Blood samples, preserved in 0.5 mg EDTA vials, were stored at −70°C to prevent DNA degradation. Samples were left at room temperature for 30 minutes before the extraction process was carried out. 
+Taqman Assay-Based Real-Time PCR for Amplification of Different Plasmodium Species Extracted DNA was amplified using a Qiagen Rotor-Gene Q system using abTes™ Malaria 5 qPCR commercially available kit (catalog number 300229) using a set of specific primers for each Plasmodium species designed by the manufacturer. Firstly, a master mix solution was prepared using the following scheme: primer/probe: 2 μL, enzyme/reaction mix: 6 μL, nuclease-free water: 12 μL, and template: 5 μL. The thermal cycler was programmed as phase 1 at 95°C for 2 min to implement one cycle, phase 2 at 60°C for 20 seconds to produce 30 cycles, and phase 3 at 68°C for 1 minute per kb to generate 30 cycles on the basis of manufacturer's instructions. Fluorescence intensity was measured using the Rotor gene Q software, and the graph of fluorescence intensity vs. the number of cycles was plotted [15].
+Real-time PCR-based TaqMan assay was performed to identify the species and compare the results with microscopy and the RDT. Plasmodium DNA was amplified. Five fluorescent dyes, i.e., FAM, HEX, ROX, Cy5, and Quasar 705, were used to detect five different species of Plasmodium [15],
+  FAM (green)-Plasmodium falciparum,
+  Cy5 (red)-Plasmodium ovale
+  HEX (yellow)-Plasmodium malariae,
+  ROX (orange)-Plasmodium vivax
+  Quasar 705(crimson)-Plasmodium knowlesi
+where positive control = all malaria-positive control available in the commercial kit and negative control = phosphate buffer saline.
+Blood samples were considered positive for malaria based on fluorescence intensities which were greater than the threshold or cutoff values.
+Data Management and Statistical Analysis
+The collected data were entered into an excel spreadsheet, coding was done for different variables, and the data was transferred to SPSS version 11.5. The comparison between different diagnostic tools was done using real-time PCR as the gold standard assay. Applying the chi-square test by constructing 2 × 2 table, sensitivity, specificity, positive predictive value, negative predictive value, and accuracy of the diagnostic tests were calculated. The level of agreement between microscopy and the RDT were estimated by using the interrelated kappa coefficient, and p values were calculated by using the chi-square test by using SPSS 
+
+
+![flowchart](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/5f1c9f3a-8200-4b1d-a6c7-2bd0603f51f4)
+
+![img](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/73a4ba17-ea4c-4263-bf0e-d9f4c3e9f0e1)
+
+![malarai samples](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/cf8f5a36-11ca-4e9b-8eae-ae0d89e80c67)
 
 
 
