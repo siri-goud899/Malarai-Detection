@@ -125,5 +125,11 @@ The collected data were entered into an excel spreadsheet, coding was done for d
 ![malarai samples](https://github.com/siri-goud899/Malarai-Detection/assets/149554757/cf8f5a36-11ca-4e9b-8eae-ae0d89e80c67)
 
 
+HOW TO RUN
+
+streamlit run app.py
+
+
+
 
 
